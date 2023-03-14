@@ -5,7 +5,6 @@
 -->
 
 # I'm a Student, Developer and Content Creator
-Here are some ideas to get you started:
 
 - 🔭 I'm Working Now for Better
 - 🌱 I'm Learning Everything Right Now
