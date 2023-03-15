@@ -20,8 +20,9 @@
 ##
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musarda)](https://github.com/musarda/github-readme-stats)
--->
+
 ##
+-->
 [![Github Badge](https://img.shields.io/badge/-GitHub-000?style=quare&labelColor=000&logo=GitHub&logoColor=white&link=link)](https://www.github.com/musarda) 
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-c4302b?style=quare&labelColor=c4302b&logo=YouTube&logoColor=white&link=link)](https://www.github.com/musarda)
 [![Discord Badge](https://img.shields.io/badge/-Discord-738adb?style=quare&labelColor=blurple&logo=Discord&logoColor=white&link=link)](https://discord.gg/Kaye7tpHcQ)
