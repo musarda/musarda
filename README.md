@@ -13,8 +13,6 @@
 
 ## 
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCbgwI1yLYACWmTu34W7nXSw?logo=youtube&logoColor=red&style=for-the-badge)
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=musarda&show_icons=true&theme=tokyonight)
 
 ##
