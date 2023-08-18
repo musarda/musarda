@@ -19,7 +19,7 @@
 <br>
 <!------------SKİLLS------------>
 <div style="text-align: center;" align="center">
-  <h2>Skills</h2>
+  <h1>Skills</h1>
   <p><strong>Software</strong> and <strong>Crypto</strong> <strong>+8 Years of Experience</strong></p>
   <table style="margin: 0 auto;">
     <tr>
@@ -52,9 +52,9 @@
 <br>
 <!------------PROJECTS------------>
 <table style="margin: 0 auto;" align="center">
-  <h2 align="center">Projects</h2>
+  <h1 align="center">Projects</h1>
   <tr>
-    <td colspan="3"><h3>YouTube</h3></td>
+    <td colspan="3"><h3 align="center">YouTube</h3></td>
   </tr>
   <tr>
     <td colspan="3">
@@ -64,7 +64,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3"><h3>Discord</h3></td>
+    <td colspan="3"><h3 align="center">Discord</h3></td>
   </tr>
   <tr>
     <td colspan="3">
@@ -77,7 +77,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3"><h3>Software</h3></td>
+    <td colspan="3"><h3 align="center">Software</h3></td>
   </tr>
   <tr>
     <td colspan="3">
@@ -87,7 +87,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3" style="text-align: center;"><h2>Experience</h2></td>
+    <td colspan="3" style="text-align: center;"><h2 align="center">Experience</h2></td>
   </tr>
   <tr>
     <td colspan="3">
@@ -100,7 +100,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3" style="text-align: center;"><h2>Language Proficiency</h2></td>
+    <td colspan="3" style="text-align: center;"><h2 align="center">Language Proficiency</h2></td>
   </tr>
   <tr>
     <td colspan="3">
@@ -110,6 +110,7 @@
     </td>
   </tr>
 </table>
+
 
 <!--
 **musarda/musarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
