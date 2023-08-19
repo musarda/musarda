@@ -18,6 +18,12 @@
   <a href="https://discord.gg/Kaye7tpHcQ">
     <img src="https://img.shields.io/badge/-Discord-738adb?style=quare&labelColor=blurple&logo=Discord&logoColor=white&link=link" alt="Discord Badge">
   </a>
+  <br>
+  <br>
+    <img src="https://img.shields.io/badge/Bitcoin-EAB300?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
+    <img src="https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white" alt="Dogecoin">
+    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum">
+    <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white" alt="XRP">
 </div>
 <br>
 <!------------SKİLLS------------>
@@ -145,5 +151,11 @@
     <a href="https://discord.gg/Kaye7tpHcQ">
         <img src="https://img.shields.io/badge/-Discord-738adb?style=quare&labelColor=blurple&logo=Discord&logoColor=white&link=link" alt="Discord Badge">
     </a>
+      <br>
+  <br>
+    <img src="https://img.shields.io/badge/Bitcoin-EAB300?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
+    <img src="https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white" alt="Dogecoin">
+    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum">
+    <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white" alt="XRP">
   </details>
 </div>
