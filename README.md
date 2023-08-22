@@ -1,3 +1,11 @@
+<!--    Do Not Use This Code Without Permission.    -->
+<!-- © musarda -->
+<!-- 
+  https://www.github.com/musarda
+  https://www.youtube.com/@CodeChain
+  https://www.glitch.com/@musarda44
+  -->
+
 <div align="center">
   <h1>Hello World! 👋</h1>
 </div>
