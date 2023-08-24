@@ -147,6 +147,9 @@
   <details> <!--Secret Menu-->
     <summary>Show Social Links</summary>
     <br>
+    <a href="https://musarda.github.io">
+        <img src="https://img.shields.io/badge/Visit%20My-Website-E6E6E6" alt="Web Site Rozeti">
+    </a>
     <a href="https://www.github.com/musarda">
         <img src="https://img.shields.io/badge/-GitHub-000?style=quare&labelColor=000&logo=GitHub&logoColor=white&link=link" alt="Github Badge">
     </a>
