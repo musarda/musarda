@@ -48,6 +48,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=musarda&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=musarda&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=musarda&icon=2&color=12)](#)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
