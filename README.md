@@ -57,6 +57,7 @@
 
 
 ### Watch my contribution graph get eaten by the snake 🐍
+> If Snake Doesn't Move, Hit F5
 
 ![snake gif](https://github.com/musarda/musarda/blob/output/github-contribution-grid-snake.gif)
 
