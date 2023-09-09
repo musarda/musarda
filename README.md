@@ -1,3 +1,11 @@
+<!--
+    First of all, my friend who reached these codes, I do not know how you got them, but please ask me for permission if you want to use this code elsewhere.
+
+    © musarda
+    
+    Proudly created with GPRM ( https://gprm.itsvg.in )
+-->
+
 ![](https://github.com/musarda/musarda/blob/main/img.png)
 
 # 💫 About Me:
@@ -37,9 +45,9 @@
 <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white" alt="XRP">
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=musarda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=musarda&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=musarda&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=musarda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=musarda&theme=dark&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=musarda&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -47,13 +55,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=musarda&icon=2&color=12)](#)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/musarda/musarda/blob/output/github-contribution-grid-snake.gif)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/musarda/musarda/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/musarda/musarda/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/musarda/musarda/output/github-contribution-grid-snake.svg">
 </picture>
