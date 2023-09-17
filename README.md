@@ -31,6 +31,9 @@
     <a href="https://www.glitch.com/@musarda44"> <!--Glitch Link-->
       <img src="https://img.shields.io/badge/-Glitch-2800ff?style=quare&labelColor=2800ff&logo=Glitch&logoColor=white&link=link" alt="Glitch Badge">
     </a>
+    <a href="https://www.instagram.com/codechainyt"> <!--Instagram Link-->
+      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=quare&labelColor=E4405F&logo=Instagram&logoColor=white&link=link" alt="Instagram Badge">
+    </a>
     <a href="https://discord.gg/Kaye7tpHcQ"> <!--Discord2 Link-->
       <img src="https://img.shields.io/badge/-Discord-738adb?style=quare&labelColor=blurple&logo=Discord&logoColor=white&link=link" alt="Discord Badge">
     </a>
