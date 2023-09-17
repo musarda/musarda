@@ -6,7 +6,7 @@
     Proudly created with GPRM ( https://gprm.itsvg.in )
 -->
 
-![](https://github.com/musarda/musarda/blob/main/img.png)
+![](https://github.com/musarda/musarda/blob/main/img2.png)
 
 # 💫 About Me:
 - **Software Developer**
