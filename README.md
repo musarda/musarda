@@ -49,15 +49,15 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=musarda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=musarda&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=musarda&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 
-
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=musarda&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=musarda&icon=2&color=12)](#)
-
+-->
 
 ### Watch my contribution graph get eaten by the snake 🐍
 > If Snake Doesn't Move, Hit F5
